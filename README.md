@@ -87,7 +87,7 @@ Otherwise → Normal
 
 ## 1️⃣ Clone Repository
 
-git clone https://github.com/yourusername/academic-performance-analytics.git  
+git clone https://github.com/Rahul9124/academic-performance-analytics.git  
 cd academic-performance-analytics  
 
 ---
@@ -177,5 +177,6 @@ Data Analytics & Dashboard Developer
 ---
 
 # 📄 License
+
 
 MIT License
