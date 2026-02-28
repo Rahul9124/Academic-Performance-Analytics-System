@@ -1,0 +1,1001 @@
+student_id,teacher,section,subject,score,attendance_percent,late_count,status,month,performance_percent,risk_level
+2095,Ms. Patel,C,Science,86,88,2,Dropped,Feb,86,Normal
+1466,Mr. Khan,B,English,95,80,1,Dropped,Feb,95,Normal
+4380,Ms. Patel,A,Science,58,62,5,Dropped,Feb,58,High Risk
+4485,Ms. Patel,C,Computer,36,83,3,Dropped,Apr,36,High Risk
+3324,Ms. Patel,C,Science,72,61,3,Active,May,72,High Risk
+1021,Ms. Iyer,C,English,67,71,1,Active,Mar,67,Normal
+3558,Ms. Iyer,B,Math,83,86,2,Dropped,Jun,83,Normal
+1975,Ms. Patel,A,Math,76,87,3,Active,Mar,76,Normal
+4890,Ms. Iyer,B,Computer,49,62,4,Dropped,Jan,49,High Risk
+3214,Mr. Sharma,A,English,41,80,0,Active,Apr,41,High Risk
+3363,Ms. Iyer,A,Computer,52,63,0,Active,Jun,52,High Risk
+3612,Ms. Iyer,B,Computer,48,68,1,Active,Feb,48,High Risk
+2390,Ms. Patel,C,English,36,79,3,Active,Apr,36,High Risk
+3556,Ms. Iyer,C,English,94,66,3,Active,Mar,94,High Risk
+4152,Ms. Iyer,C,English,42,94,5,Active,Apr,42,High Risk
+4073,Mr. Khan,C,Computer,70,99,3,Active,May,70,Normal
+2500,Mr. Sharma,B,Math,40,63,5,Active,Apr,40,High Risk
+2579,Ms. Iyer,B,English,97,77,1,Dropped,Jan,97,Normal
+1995,Mr. Sharma,A,English,68,69,5,Active,Apr,68,High Risk
+4798,Mr. Sharma,A,English,48,90,5,Active,May,48,High Risk
+3767,Mr. Khan,B,English,96,99,4,Active,Jun,96,High Risk
+3264,Mr. Khan,C,Math,87,83,1,Dropped,Jun,87,Normal
+1064,Ms. Iyer,B,Computer,94,88,4,Dropped,Apr,94,High Risk
+3027,Mr. Khan,A,Science,43,83,0,Active,Apr,43,High Risk
+2522,Ms. Patel,C,Math,42,83,2,Dropped,Feb,42,High Risk
+3336,Mr. Khan,C,Science,42,94,2,Active,Jan,42,High Risk
+3088,Ms. Patel,C,English,39,98,1,Active,May,39,High Risk
+2863,Ms. Patel,A,Math,62,66,0,Active,Jun,62,High Risk
+4119,Mr. Khan,C,Science,46,93,0,Dropped,Jun,46,High Risk
+3146,Mr. Khan,B,English,57,83,4,Dropped,Mar,57,High Risk
+2570,Ms. Patel,A,Math,78,99,5,Dropped,Jan,78,High Risk
+2485,Mr. Sharma,B,Math,99,94,4,Dropped,Mar,99,High Risk
+4289,Ms. Iyer,A,English,37,60,4,Dropped,Feb,37,High Risk
+1392,Ms. Iyer,C,Math,48,98,2,Dropped,May,48,High Risk
+3939,Ms. Patel,A,Science,49,85,1,Active,Feb,49,High Risk
+1563,Mr. Khan,A,Computer,85,91,0,Active,May,85,Normal
+4478,Ms. Iyer,A,Math,38,89,4,Dropped,Mar,38,High Risk
+3572,Mr. Sharma,A,Science,49,88,3,Active,Jun,49,High Risk
+4314,Ms. Patel,B,Computer,66,66,2,Active,Apr,66,High Risk
+3604,Ms. Iyer,C,Computer,62,61,1,Active,May,62,High Risk
+2051,Mr. Khan,C,Science,96,65,3,Dropped,Jan,96,High Risk
+2981,Mr. Sharma,B,Math,78,79,5,Dropped,May,78,High Risk
+2400,Mr. Sharma,A,Math,96,92,0,Dropped,Mar,96,Normal
+2282,Mr. Sharma,B,Computer,61,72,0,Active,May,61,Normal
+4748,Mr. Khan,B,English,61,68,5,Dropped,May,61,High Risk
+4445,Ms. Iyer,C,English,85,83,2,Dropped,Apr,85,Normal
+4763,Mr. Sharma,B,Math,66,91,0,Dropped,Jun,66,Normal
+4878,Mr. Khan,A,English,96,71,5,Dropped,Feb,96,High Risk
+2636,Ms. Iyer,B,Computer,36,62,0,Dropped,Jun,36,High Risk
+3160,Ms. Iyer,A,Math,90,76,2,Active,Jan,90,Normal
+2589,Mr. Khan,C,Math,36,61,3,Active,Jun,36,High Risk
+2153,Mr. Khan,C,Math,35,78,5,Dropped,Feb,35,High Risk
+2439,Ms. Patel,C,Math,87,85,5,Dropped,Jun,87,High Risk
+1400,Ms. Patel,C,Computer,89,70,2,Active,Apr,89,Normal
+3931,Ms. Iyer,A,Science,72,83,4,Active,Jun,72,High Risk
+4272,Mr. Sharma,C,Computer,45,75,0,Active,Jun,45,High Risk
+2794,Mr. Khan,B,Computer,93,65,4,Dropped,Jan,93,High Risk
+2369,Ms. Patel,B,Science,54,95,2,Dropped,Feb,54,Normal
+1488,Mr. Sharma,B,Science,53,79,3,Dropped,Jan,53,Normal
+3919,Ms. Patel,B,Science,67,99,1,Active,Apr,67,Normal
+3520,Mr. Khan,C,Math,35,70,3,Active,Feb,35,High Risk
+4369,Ms. Patel,B,Science,84,82,5,Dropped,Jan,84,High Risk
+1623,Ms. Iyer,A,Math,41,75,1,Dropped,Feb,41,High Risk
+2327,Ms. Iyer,B,Computer,94,61,0,Dropped,Jan,94,High Risk
+2183,Mr. Khan,C,Science,46,64,4,Active,May,46,High Risk
+3863,Ms. Patel,A,Computer,43,94,2,Dropped,May,43,High Risk
+4191,Mr. Sharma,A,Science,37,79,5,Dropped,Jun,37,High Risk
+1586,Mr. Sharma,A,English,67,83,3,Active,Mar,67,Normal
+1253,Mr. Sharma,B,English,70,97,3,Active,Jun,70,Normal
+2919,Ms. Patel,A,Math,59,88,1,Active,Jun,59,Normal
+2704,Mr. Khan,B,Computer,88,94,4,Active,Mar,88,High Risk
+1397,Mr. Sharma,B,Science,67,63,0,Active,Apr,67,High Risk
+1400,Ms. Iyer,B,Math,55,79,2,Active,May,55,Normal
+4954,Ms. Iyer,C,Computer,67,71,2,Dropped,Feb,67,Normal
+3277,Mr. Sharma,B,Computer,56,89,5,Dropped,Apr,56,High Risk
+3074,Mr. Khan,B,Science,85,67,2,Active,Mar,85,High Risk
+3331,Mr. Khan,A,English,55,89,0,Active,Jun,55,Normal
+4067,Ms. Iyer,A,Science,98,92,4,Dropped,Jan,98,High Risk
+1546,Ms. Patel,B,Computer,95,78,3,Active,Feb,95,Normal
+2243,Mr. Khan,C,Computer,98,76,3,Active,Jun,98,Normal
+4444,Ms. Patel,A,Math,64,88,5,Active,Apr,64,High Risk
+2768,Ms. Patel,B,English,40,94,3,Dropped,Apr,40,High Risk
+3544,Mr. Khan,A,English,71,83,4,Active,Jun,71,High Risk
+1699,Mr. Khan,B,Computer,80,90,2,Active,Jan,80,Normal
+4327,Ms. Patel,C,English,97,80,0,Dropped,Mar,97,Normal
+2758,Ms. Iyer,A,Science,52,84,1,Active,Jan,52,Normal
+4863,Mr. Sharma,B,Computer,88,62,5,Dropped,Jun,88,High Risk
+4710,Mr. Sharma,C,Computer,66,81,1,Active,Jun,66,Normal
+1784,Mr. Sharma,C,Math,61,61,1,Active,Feb,61,High Risk
+1245,Mr. Khan,B,Science,67,68,2,Active,Apr,67,High Risk
+2705,Mr. Khan,B,Computer,82,98,4,Active,Jun,82,High Risk
+1920,Mr. Khan,A,Science,60,94,1,Dropped,Jun,60,Normal
+2529,Ms. Iyer,C,English,58,72,3,Active,Apr,58,Normal
+1019,Ms. Patel,B,English,41,95,4,Active,Jun,41,High Risk
+1399,Ms. Iyer,B,Science,99,67,5,Dropped,Jan,99,High Risk
+3518,Ms. Patel,C,Computer,48,71,2,Active,Jan,48,High Risk
+1833,Mr. Khan,B,Science,49,87,1,Dropped,Feb,49,High Risk
+1050,Mr. Khan,C,English,66,82,5,Active,Feb,66,High Risk
+3617,Mr. Khan,C,English,59,81,1,Dropped,Jun,59,Normal
+4050,Ms. Patel,A,English,83,65,5,Active,May,83,High Risk
+3311,Mr. Sharma,C,Math,94,96,0,Dropped,Jun,94,Normal
+1773,Mr. Khan,B,Science,87,64,3,Dropped,Feb,87,High Risk
+3703,Ms. Iyer,C,Science,81,94,3,Dropped,Feb,81,Normal
+1656,Ms. Patel,A,Computer,47,89,2,Active,Apr,47,High Risk
+2081,Ms. Iyer,C,English,97,78,3,Dropped,Jan,97,Normal
+4545,Ms. Patel,C,English,89,85,4,Dropped,Mar,89,High Risk
+2931,Mr. Khan,C,Math,96,82,0,Active,Apr,96,Normal
+2119,Mr. Sharma,B,English,35,60,1,Dropped,Apr,35,High Risk
+4956,Mr. Sharma,B,English,82,84,4,Dropped,Jun,82,High Risk
+1703,Ms. Iyer,C,Math,35,75,4,Dropped,Mar,35,High Risk
+3908,Mr. Khan,C,English,97,64,5,Active,May,97,High Risk
+1996,Mr. Sharma,A,Math,60,75,2,Dropped,Mar,60,Normal
+2243,Mr. Khan,B,Science,91,88,5,Active,Apr,91,High Risk
+1957,Mr. Khan,A,Science,81,89,5,Dropped,Jun,81,High Risk
+3479,Mr. Sharma,C,English,50,85,1,Active,Feb,50,Normal
+4325,Ms. Patel,B,Science,73,95,0,Active,Jan,73,Normal
+4908,Mr. Sharma,C,English,57,69,5,Dropped,Jan,57,High Risk
+3809,Ms. Patel,C,English,68,90,1,Active,Mar,68,Normal
+2015,Ms. Iyer,B,English,53,91,0,Active,Mar,53,Normal
+1496,Ms. Patel,B,Science,38,75,1,Dropped,May,38,High Risk
+2687,Mr. Khan,A,English,66,86,3,Dropped,Jan,66,Normal
+2568,Mr. Khan,A,English,46,94,3,Dropped,Jun,46,High Risk
+4906,Ms. Iyer,C,Computer,67,96,3,Dropped,Jun,67,Normal
+2066,Mr. Sharma,A,Math,99,92,1,Active,Jan,99,Normal
+1011,Mr. Sharma,A,Computer,78,88,4,Dropped,Jun,78,High Risk
+3546,Ms. Iyer,B,English,80,61,4,Dropped,May,80,High Risk
+1089,Ms. Iyer,B,Science,69,82,0,Dropped,Mar,69,Normal
+4017,Ms. Patel,C,Math,42,88,1,Active,Jun,42,High Risk
+1825,Ms. Iyer,A,Math,68,66,3,Active,Feb,68,High Risk
+4348,Mr. Khan,C,Computer,63,95,0,Active,Jan,63,Normal
+3504,Mr. Sharma,B,Computer,70,69,4,Active,Jun,70,High Risk
+2122,Mr. Sharma,A,Math,58,94,0,Dropped,Mar,58,Normal
+3143,Ms. Iyer,A,Computer,70,77,0,Active,Jun,70,Normal
+4807,Ms. Patel,C,Computer,58,82,5,Dropped,May,58,High Risk
+4766,Mr. Sharma,A,English,71,71,0,Active,May,71,Normal
+3914,Ms. Patel,B,Math,47,82,0,Dropped,Apr,47,High Risk
+3109,Ms. Patel,C,Math,64,76,0,Active,Mar,64,Normal
+2635,Mr. Sharma,A,English,47,78,0,Active,Jan,47,High Risk
+1264,Ms. Iyer,C,Science,46,78,3,Active,Apr,46,High Risk
+1850,Ms. Iyer,B,Science,62,73,3,Active,Jun,62,Normal
+1395,Ms. Patel,C,Science,50,64,2,Dropped,Jun,50,High Risk
+4636,Mr. Khan,C,English,59,80,3,Dropped,Mar,59,Normal
+2062,Mr. Khan,B,Science,57,75,0,Active,May,57,Normal
+4294,Ms. Iyer,B,Science,87,98,5,Active,Feb,87,High Risk
+1234,Ms. Iyer,B,Math,39,94,4,Dropped,Mar,39,High Risk
+4145,Mr. Sharma,A,Computer,52,71,0,Dropped,Apr,52,Normal
+4301,Ms. Patel,B,Math,92,76,4,Active,Feb,92,High Risk
+2416,Ms. Patel,B,English,41,72,1,Active,Feb,41,High Risk
+2217,Mr. Khan,B,Math,84,86,1,Dropped,Jun,84,Normal
+2445,Mr. Sharma,B,Math,39,88,4,Dropped,Jan,39,High Risk
+1499,Ms. Iyer,B,Computer,42,60,5,Active,Jan,42,High Risk
+2324,Ms. Iyer,B,Math,51,66,0,Active,Jan,51,High Risk
+4323,Mr. Sharma,C,English,38,95,5,Active,Feb,38,High Risk
+3923,Ms. Iyer,A,Computer,65,78,4,Dropped,Mar,65,High Risk
+1713,Mr. Sharma,B,Computer,88,98,2,Active,Feb,88,Normal
+4522,Mr. Sharma,A,Math,53,98,5,Dropped,Feb,53,High Risk
+2243,Ms. Iyer,C,English,79,72,1,Active,Jan,79,Normal
+1455,Mr. Sharma,B,Computer,92,79,3,Dropped,Mar,92,Normal
+3434,Mr. Sharma,A,Science,95,98,0,Dropped,Jun,95,Normal
+1933,Mr. Khan,A,Computer,96,84,0,Active,Feb,96,Normal
+2852,Ms. Patel,A,English,40,91,4,Dropped,May,40,High Risk
+4284,Ms. Iyer,B,Computer,81,80,5,Active,Mar,81,High Risk
+2555,Ms. Iyer,C,Science,70,94,2,Active,Jun,70,Normal
+4376,Mr. Sharma,A,Science,91,77,0,Active,Jun,91,Normal
+2396,Ms. Iyer,A,Science,48,74,0,Dropped,Jun,48,High Risk
+4018,Ms. Patel,A,Computer,88,62,0,Dropped,Jan,88,High Risk
+4019,Mr. Sharma,C,Math,46,69,5,Active,Apr,46,High Risk
+2031,Mr. Sharma,A,Computer,58,87,4,Dropped,Feb,58,High Risk
+4387,Ms. Iyer,A,English,70,85,1,Active,Jun,70,Normal
+1868,Ms. Patel,A,Computer,84,87,3,Dropped,Jan,84,Normal
+3549,Ms. Iyer,A,Math,75,95,2,Dropped,Jan,75,Normal
+1928,Mr. Sharma,B,Math,97,76,0,Active,Mar,97,Normal
+4618,Ms. Iyer,B,English,63,72,5,Active,Mar,63,High Risk
+1255,Mr. Sharma,C,Math,40,77,2,Dropped,Apr,40,High Risk
+1009,Mr. Sharma,B,Computer,81,84,1,Dropped,Mar,81,Normal
+4322,Mr. Khan,B,English,90,89,1,Dropped,Jan,90,Normal
+4136,Mr. Khan,A,English,39,92,5,Active,Feb,39,High Risk
+2802,Mr. Khan,A,English,52,91,0,Active,Mar,52,Normal
+3874,Ms. Patel,B,Science,60,84,5,Dropped,Feb,60,High Risk
+2633,Ms. Iyer,C,Math,61,72,0,Active,Jan,61,Normal
+1475,Mr. Sharma,A,English,35,80,5,Dropped,Jan,35,High Risk
+2460,Mr. Sharma,A,Math,39,97,2,Active,Jan,39,High Risk
+3724,Mr. Khan,A,English,57,96,4,Active,Mar,57,High Risk
+3504,Mr. Sharma,B,Math,51,80,5,Active,Jan,51,High Risk
+2469,Ms. Patel,A,Science,35,72,3,Dropped,Jun,35,High Risk
+4419,Ms. Iyer,B,Science,99,99,1,Active,Apr,99,Normal
+1673,Mr. Sharma,A,Computer,73,85,1,Active,Jan,73,Normal
+4377,Mr. Khan,A,English,88,62,2,Active,Feb,88,High Risk
+1235,Ms. Patel,B,English,46,60,5,Active,May,46,High Risk
+1762,Mr. Khan,A,Math,39,89,5,Active,Jan,39,High Risk
+3900,Mr. Khan,B,English,91,76,4,Dropped,Jun,91,High Risk
+1434,Ms. Patel,B,Science,48,61,2,Dropped,Apr,48,High Risk
+2329,Mr. Sharma,B,Computer,72,93,5,Active,Jan,72,High Risk
+3482,Ms. Patel,A,Math,64,74,2,Dropped,Feb,64,Normal
+1248,Mr. Sharma,A,Math,97,93,3,Active,Feb,97,Normal
+1541,Ms. Iyer,C,English,72,92,3,Dropped,Mar,72,Normal
+1796,Ms. Iyer,B,Science,85,76,4,Active,Apr,85,High Risk
+2353,Mr. Sharma,B,English,38,69,0,Dropped,Jun,38,High Risk
+3593,Mr. Sharma,A,English,51,79,4,Active,May,51,High Risk
+3173,Ms. Iyer,C,Science,40,61,4,Dropped,Jun,40,High Risk
+3158,Mr. Khan,B,Math,77,70,2,Dropped,Mar,77,Normal
+4445,Ms. Iyer,C,English,57,75,2,Active,Jun,57,Normal
+1359,Ms. Patel,B,Computer,50,67,3,Dropped,Apr,50,High Risk
+2887,Ms. Patel,A,English,38,84,2,Dropped,Mar,38,High Risk
+1060,Ms. Iyer,A,English,61,88,1,Active,May,61,Normal
+2028,Mr. Sharma,C,Computer,85,78,4,Dropped,Mar,85,High Risk
+3885,Mr. Sharma,B,Computer,76,81,4,Dropped,Jun,76,High Risk
+1523,Mr. Sharma,A,Science,35,64,0,Dropped,Jun,35,High Risk
+2101,Ms. Iyer,A,Computer,80,93,0,Dropped,Mar,80,Normal
+3841,Ms. Patel,A,English,79,86,0,Dropped,Mar,79,Normal
+1106,Mr. Sharma,B,Computer,81,81,5,Dropped,Jan,81,High Risk
+3851,Mr. Sharma,C,Science,97,76,1,Dropped,Jun,97,Normal
+2890,Ms. Iyer,A,English,35,67,0,Active,Jun,35,High Risk
+1525,Ms. Iyer,B,Math,86,74,5,Active,Jan,86,High Risk
+4287,Ms. Iyer,A,Math,62,82,5,Active,Mar,62,High Risk
+3746,Ms. Patel,A,Computer,36,85,5,Dropped,Jan,36,High Risk
+2646,Ms. Patel,B,English,90,66,2,Dropped,Jan,90,High Risk
+3853,Ms. Iyer,A,Math,57,77,1,Active,May,57,Normal
+3075,Ms. Iyer,A,Science,49,84,4,Active,Jan,49,High Risk
+4545,Ms. Iyer,C,English,73,76,5,Dropped,Feb,73,High Risk
+4596,Mr. Khan,A,Science,78,84,0,Active,Feb,78,Normal
+1066,Ms. Iyer,B,English,59,63,1,Active,May,59,High Risk
+3081,Ms. Iyer,A,Math,52,95,5,Dropped,Jun,52,High Risk
+3795,Mr. Khan,B,Math,42,99,0,Dropped,May,42,High Risk
+3739,Mr. Sharma,C,English,76,96,5,Dropped,May,76,High Risk
+2975,Mr. Khan,C,Science,60,93,2,Active,Apr,60,Normal
+4448,Ms. Iyer,B,English,93,65,4,Dropped,May,93,High Risk
+2733,Mr. Sharma,C,English,67,81,4,Dropped,Feb,67,High Risk
+4517,Mr. Khan,A,Math,38,89,2,Dropped,Jan,38,High Risk
+1758,Ms. Iyer,A,English,96,89,0,Dropped,Apr,96,Normal
+3595,Ms. Patel,A,English,37,90,4,Dropped,Mar,37,High Risk
+4393,Ms. Patel,C,Science,58,90,5,Active,Jan,58,High Risk
+1117,Mr. Khan,A,English,38,74,5,Dropped,Mar,38,High Risk
+2415,Ms. Patel,C,Math,85,61,2,Dropped,May,85,High Risk
+2433,Mr. Sharma,B,English,60,64,5,Active,Mar,60,High Risk
+1531,Mr. Sharma,A,English,53,79,0,Active,Feb,53,Normal
+1653,Ms. Iyer,C,Computer,46,60,1,Dropped,Jan,46,High Risk
+2917,Mr. Sharma,C,Science,98,97,4,Dropped,Feb,98,High Risk
+3026,Mr. Khan,B,Math,45,95,4,Active,Jan,45,High Risk
+1689,Ms. Patel,B,Science,37,92,5,Dropped,Jun,37,High Risk
+3219,Mr. Sharma,B,Computer,44,64,1,Dropped,Apr,44,High Risk
+2619,Mr. Khan,B,English,36,72,1,Active,Mar,36,High Risk
+3832,Ms. Patel,C,English,99,96,0,Active,Jun,99,Normal
+3038,Mr. Sharma,C,Computer,43,70,5,Dropped,Mar,43,High Risk
+2604,Ms. Iyer,B,English,69,89,0,Dropped,Jan,69,Normal
+1375,Mr. Khan,C,Math,96,73,4,Active,Jun,96,High Risk
+2570,Mr. Sharma,C,Science,43,93,3,Dropped,Mar,43,High Risk
+4643,Mr. Khan,C,Science,35,99,5,Active,Feb,35,High Risk
+1872,Ms. Patel,A,Computer,98,88,2,Dropped,Jan,98,Normal
+1724,Mr. Khan,C,Computer,48,89,2,Active,Mar,48,High Risk
+4450,Mr. Sharma,A,Math,71,64,2,Dropped,Feb,71,High Risk
+2772,Mr. Khan,A,Science,60,63,0,Active,May,60,High Risk
+3343,Ms. Iyer,A,Computer,76,84,1,Active,Jan,76,Normal
+3847,Ms. Patel,B,Math,73,99,5,Dropped,Jan,73,High Risk
+2046,Ms. Iyer,C,Computer,85,97,0,Active,Jun,85,Normal
+3712,Mr. Sharma,A,Math,97,74,0,Active,May,97,Normal
+2997,Mr. Khan,A,English,51,92,1,Active,Mar,51,Normal
+4110,Mr. Sharma,B,English,87,99,2,Active,May,87,Normal
+3626,Mr. Sharma,C,Science,85,65,5,Dropped,Feb,85,High Risk
+2471,Mr. Sharma,B,Computer,41,67,1,Active,Apr,41,High Risk
+3035,Mr. Khan,A,Math,49,88,0,Dropped,Jan,49,High Risk
+3597,Ms. Patel,B,English,61,95,4,Active,Jan,61,High Risk
+4044,Mr. Khan,B,Computer,91,92,4,Active,May,91,High Risk
+3243,Mr. Sharma,C,Science,61,92,5,Dropped,Jan,61,High Risk
+2865,Ms. Patel,B,English,44,64,2,Dropped,Jan,44,High Risk
+2900,Mr. Khan,C,Computer,72,72,3,Active,Apr,72,Normal
+4719,Mr. Khan,B,Math,86,74,4,Active,Feb,86,High Risk
+3891,Mr. Sharma,C,Computer,39,88,3,Active,May,39,High Risk
+1094,Mr. Khan,C,Computer,79,61,2,Dropped,May,79,High Risk
+2834,Ms. Iyer,B,English,70,95,1,Active,Jun,70,Normal
+1010,Mr. Sharma,A,Math,61,64,3,Active,Apr,61,High Risk
+3349,Mr. Khan,B,Science,72,65,1,Dropped,Jan,72,High Risk
+4687,Mr. Khan,C,Science,46,85,4,Dropped,May,46,High Risk
+4040,Ms. Iyer,B,Science,96,77,0,Active,May,96,Normal
+1355,Ms. Patel,A,Computer,94,71,3,Active,Feb,94,Normal
+4056,Mr. Sharma,C,English,39,96,1,Active,May,39,High Risk
+1050,Ms. Patel,A,Science,65,68,5,Active,Jan,65,High Risk
+4797,Mr. Khan,A,Math,63,73,0,Dropped,Feb,63,Normal
+3861,Ms. Iyer,A,Science,45,82,0,Active,Feb,45,High Risk
+3467,Mr. Sharma,B,Science,55,85,5,Dropped,Jun,55,High Risk
+4072,Mr. Khan,C,English,88,82,0,Dropped,Mar,88,Normal
+4502,Mr. Khan,B,Math,97,99,4,Active,Jun,97,High Risk
+4507,Ms. Patel,C,Math,87,68,1,Dropped,Jan,87,High Risk
+4874,Mr. Khan,C,Science,91,85,0,Dropped,Jan,91,Normal
+3122,Mr. Khan,A,Math,97,84,1,Active,Apr,97,Normal
+1474,Mr. Khan,C,English,72,61,1,Dropped,Mar,72,High Risk
+3687,Ms. Iyer,B,English,68,86,0,Dropped,Mar,68,Normal
+2990,Mr. Khan,C,Math,77,83,0,Dropped,Mar,77,Normal
+2879,Mr. Sharma,A,Computer,86,65,4,Dropped,Feb,86,High Risk
+1661,Ms. Patel,A,Math,67,88,2,Active,May,67,Normal
+2492,Ms. Iyer,C,Computer,60,87,1,Active,Apr,60,Normal
+2107,Ms. Patel,C,Math,83,66,0,Active,Apr,83,High Risk
+1341,Ms. Patel,A,Computer,83,79,5,Dropped,Mar,83,High Risk
+1326,Mr. Khan,B,Math,97,99,0,Active,Jun,97,Normal
+1989,Mr. Sharma,C,Science,35,91,4,Dropped,Mar,35,High Risk
+3079,Mr. Khan,C,Computer,85,78,5,Dropped,May,85,High Risk
+1428,Mr. Sharma,C,Computer,64,88,0,Active,May,64,Normal
+3065,Ms. Patel,A,Science,64,75,2,Dropped,Jan,64,Normal
+4246,Mr. Khan,A,Math,35,73,2,Active,May,35,High Risk
+4335,Mr. Sharma,C,English,72,63,0,Dropped,Feb,72,High Risk
+1799,Mr. Sharma,B,English,63,98,2,Active,May,63,Normal
+2901,Mr. Khan,C,English,44,69,2,Dropped,Mar,44,High Risk
+2823,Ms. Iyer,B,English,68,92,3,Active,Feb,68,Normal
+4079,Ms. Iyer,A,Computer,84,66,4,Dropped,Mar,84,High Risk
+2790,Ms. Patel,A,English,99,62,2,Dropped,Apr,99,High Risk
+4122,Mr. Khan,C,English,88,96,2,Dropped,Apr,88,Normal
+3143,Ms. Iyer,B,English,42,93,2,Active,Feb,42,High Risk
+2523,Ms. Patel,C,Math,66,75,3,Active,Apr,66,Normal
+3782,Ms. Iyer,A,Math,71,80,5,Active,Jan,71,High Risk
+1774,Mr. Khan,B,Computer,89,77,1,Active,Jan,89,Normal
+1146,Ms. Patel,A,Math,67,82,4,Active,May,67,High Risk
+3747,Ms. Patel,C,Computer,53,95,4,Active,Jan,53,High Risk
+2939,Mr. Sharma,C,Computer,36,60,4,Dropped,Jan,36,High Risk
+1470,Ms. Iyer,A,Science,45,61,2,Active,Mar,45,High Risk
+1804,Ms. Patel,A,Math,46,79,4,Active,Feb,46,High Risk
+4297,Mr. Khan,A,Science,72,89,0,Dropped,Mar,72,Normal
+4577,Ms. Patel,A,Science,87,94,3,Dropped,Apr,87,Normal
+4229,Ms. Patel,A,Math,58,76,1,Active,Jun,58,Normal
+4953,Ms. Iyer,B,Math,93,82,0,Active,May,93,Normal
+1236,Mr. Khan,A,English,48,68,1,Active,Jun,48,High Risk
+2781,Mr. Sharma,B,Math,59,98,0,Dropped,Feb,59,Normal
+1441,Mr. Sharma,B,English,56,63,1,Active,Apr,56,High Risk
+1074,Mr. Khan,B,Computer,63,93,4,Dropped,Jun,63,High Risk
+2379,Mr. Khan,C,Science,52,80,1,Active,Mar,52,Normal
+4088,Ms. Patel,B,Math,75,97,1,Active,Apr,75,Normal
+2401,Ms. Iyer,A,Math,71,84,5,Active,Jan,71,High Risk
+1730,Ms. Patel,A,English,61,90,5,Active,Jun,61,High Risk
+2772,Ms. Iyer,A,English,74,93,3,Active,Apr,74,Normal
+2708,Ms. Patel,C,English,87,66,1,Active,Jan,87,High Risk
+4547,Mr. Khan,B,Math,51,85,4,Dropped,Jun,51,High Risk
+2845,Mr. Sharma,B,Science,96,61,3,Dropped,Jan,96,High Risk
+1793,Ms. Iyer,C,Computer,99,95,2,Active,Mar,99,Normal
+2319,Mr. Sharma,B,Math,63,80,2,Dropped,Mar,63,Normal
+1186,Ms. Iyer,C,Math,45,95,0,Active,Jun,45,High Risk
+2333,Mr. Sharma,B,Science,73,99,2,Active,Jun,73,Normal
+1405,Mr. Sharma,A,Math,89,83,5,Dropped,Jun,89,High Risk
+4619,Mr. Sharma,A,Computer,90,92,1,Dropped,Jun,90,Normal
+4315,Ms. Iyer,B,Computer,54,78,2,Dropped,Feb,54,Normal
+1153,Ms. Iyer,B,Science,96,93,0,Active,Jun,96,Normal
+2240,Ms. Iyer,A,Science,74,76,0,Active,Feb,74,Normal
+1024,Ms. Iyer,C,Computer,95,99,1,Dropped,Feb,95,Normal
+4569,Mr. Khan,B,English,73,94,2,Active,Mar,73,Normal
+3913,Ms. Patel,A,Science,78,89,5,Dropped,Jun,78,High Risk
+4115,Ms. Iyer,B,Science,46,78,4,Dropped,Feb,46,High Risk
+4640,Mr. Sharma,A,English,93,76,1,Active,Feb,93,Normal
+4663,Ms. Patel,C,English,89,71,5,Active,Jan,89,High Risk
+4152,Ms. Patel,A,Science,42,90,4,Dropped,Apr,42,High Risk
+2291,Ms. Iyer,C,Science,59,77,0,Dropped,Feb,59,Normal
+4948,Mr. Khan,C,Science,49,85,0,Dropped,Feb,49,High Risk
+2039,Mr. Khan,B,English,60,91,1,Dropped,Jun,60,Normal
+4028,Ms. Iyer,C,Science,51,82,1,Active,Apr,51,Normal
+4590,Ms. Patel,B,English,41,73,4,Active,Jun,41,High Risk
+1826,Ms. Iyer,A,English,43,67,1,Dropped,May,43,High Risk
+2466,Ms. Iyer,C,Math,73,94,1,Dropped,May,73,Normal
+3667,Mr. Khan,C,Science,51,73,2,Active,Apr,51,Normal
+3852,Ms. Iyer,B,Computer,94,93,2,Active,Apr,94,Normal
+1182,Mr. Sharma,C,English,77,99,1,Active,May,77,Normal
+4587,Ms. Iyer,C,Science,73,74,0,Active,May,73,Normal
+4232,Ms. Patel,A,Math,59,72,1,Dropped,Mar,59,Normal
+4241,Ms. Patel,B,Science,50,61,2,Active,May,50,High Risk
+1758,Mr. Sharma,C,Math,68,89,2,Active,Jun,68,Normal
+4487,Mr. Sharma,B,Science,47,72,1,Dropped,Apr,47,High Risk
+3032,Ms. Iyer,C,English,73,88,5,Dropped,Jan,73,High Risk
+2262,Mr. Sharma,A,Math,96,75,3,Dropped,Feb,96,Normal
+4430,Mr. Khan,A,Computer,44,89,0,Active,May,44,High Risk
+4760,Ms. Iyer,A,Math,39,60,5,Active,Feb,39,High Risk
+3033,Ms. Patel,C,Computer,37,73,5,Dropped,Mar,37,High Risk
+1431,Ms. Patel,A,Math,52,96,0,Dropped,Apr,52,Normal
+1398,Ms. Iyer,A,English,99,74,0,Active,Mar,99,Normal
+4211,Ms. Iyer,B,Science,83,83,3,Active,Jun,83,Normal
+1938,Ms. Patel,C,Science,93,96,4,Active,May,93,High Risk
+2085,Ms. Patel,B,English,73,83,2,Dropped,Feb,73,Normal
+1771,Ms. Iyer,C,Math,59,66,3,Dropped,May,59,High Risk
+4932,Mr. Sharma,A,Math,93,67,3,Dropped,Apr,93,High Risk
+1225,Mr. Sharma,B,English,97,69,2,Dropped,Mar,97,High Risk
+3800,Mr. Sharma,A,English,91,85,0,Active,Jun,91,Normal
+2796,Mr. Sharma,C,Computer,37,65,4,Dropped,Apr,37,High Risk
+2544,Ms. Patel,C,Computer,88,82,0,Active,May,88,Normal
+1849,Ms. Patel,B,Science,54,94,1,Dropped,May,54,Normal
+1159,Mr. Sharma,A,Science,96,76,2,Active,Mar,96,Normal
+1579,Mr. Khan,A,Science,47,84,0,Active,Mar,47,High Risk
+2290,Ms. Patel,A,Science,48,96,1,Dropped,May,48,High Risk
+1987,Mr. Sharma,A,Science,90,62,2,Active,Jun,90,High Risk
+1920,Mr. Sharma,C,English,63,68,2,Dropped,May,63,High Risk
+4332,Ms. Iyer,A,Math,76,68,0,Dropped,Jun,76,High Risk
+1974,Mr. Sharma,C,Computer,45,93,3,Active,Apr,45,High Risk
+4972,Mr. Sharma,C,Math,72,67,2,Active,Apr,72,High Risk
+1453,Mr. Khan,B,English,82,85,1,Dropped,Apr,82,Normal
+1972,Ms. Patel,B,Computer,71,72,3,Active,Jun,71,Normal
+3396,Mr. Sharma,A,Science,74,91,5,Dropped,Jan,74,High Risk
+3087,Ms. Iyer,C,Science,92,62,1,Active,Feb,92,High Risk
+3383,Ms. Iyer,B,English,67,65,2,Dropped,Mar,67,High Risk
+3618,Ms. Patel,B,Science,74,87,0,Dropped,Feb,74,Normal
+3604,Mr. Sharma,C,Computer,93,72,2,Dropped,Jan,93,Normal
+3469,Ms. Patel,B,Computer,87,95,2,Active,Apr,87,Normal
+4818,Ms. Iyer,B,Computer,94,66,4,Active,Apr,94,High Risk
+4465,Mr. Khan,C,Computer,79,90,1,Active,Jan,79,Normal
+3403,Mr. Sharma,C,English,66,89,1,Active,Jun,66,Normal
+3012,Mr. Sharma,C,Science,36,73,4,Dropped,Jan,36,High Risk
+2247,Mr. Khan,A,Computer,46,98,1,Active,Apr,46,High Risk
+2256,Mr. Khan,C,Computer,47,86,0,Dropped,Apr,47,High Risk
+1699,Ms. Patel,A,Math,51,99,1,Active,Jan,51,Normal
+1674,Mr. Sharma,B,Computer,98,83,4,Active,Jun,98,High Risk
+2256,Ms. Patel,C,Computer,64,66,1,Active,May,64,High Risk
+3382,Mr. Khan,B,Science,97,87,3,Active,Jan,97,Normal
+2219,Ms. Iyer,C,Science,71,88,5,Dropped,Feb,71,High Risk
+2265,Ms. Patel,C,Science,54,91,3,Dropped,Apr,54,Normal
+1917,Ms. Patel,C,Computer,98,76,3,Dropped,Jun,98,Normal
+3752,Ms. Iyer,B,Math,51,69,5,Dropped,Feb,51,High Risk
+3257,Ms. Patel,B,English,56,85,2,Dropped,Apr,56,Normal
+1715,Ms. Patel,A,English,84,73,4,Dropped,Apr,84,High Risk
+3428,Ms. Iyer,A,English,70,94,3,Dropped,Jan,70,Normal
+4104,Mr. Sharma,B,Science,41,88,2,Active,May,41,High Risk
+3506,Mr. Khan,C,Science,40,74,2,Active,Mar,40,High Risk
+4553,Ms. Patel,A,Science,92,82,1,Active,Feb,92,Normal
+1515,Mr. Khan,B,Computer,80,93,4,Dropped,Mar,80,High Risk
+3204,Ms. Patel,B,English,47,98,4,Active,May,47,High Risk
+4155,Mr. Sharma,B,Science,66,61,5,Active,Mar,66,High Risk
+4778,Ms. Iyer,C,Computer,56,70,2,Dropped,Feb,56,Normal
+1020,Ms. Iyer,C,Computer,90,87,4,Active,Apr,90,High Risk
+1083,Mr. Sharma,C,English,81,75,4,Dropped,Apr,81,High Risk
+4524,Ms. Iyer,B,English,40,78,0,Dropped,Jan,40,High Risk
+4963,Ms. Patel,C,Math,37,60,1,Active,Feb,37,High Risk
+2980,Mr. Sharma,A,English,72,74,1,Active,Mar,72,Normal
+2809,Ms. Iyer,C,English,69,84,3,Active,Feb,69,Normal
+2607,Ms. Iyer,A,English,49,75,2,Dropped,Jun,49,High Risk
+4676,Mr. Sharma,A,Math,94,84,0,Dropped,Jan,94,Normal
+2709,Ms. Patel,B,Computer,87,67,2,Dropped,Feb,87,High Risk
+1348,Ms. Patel,A,Science,84,66,2,Dropped,Apr,84,High Risk
+1377,Ms. Iyer,A,English,98,83,3,Dropped,May,98,Normal
+1526,Ms. Iyer,C,Science,37,79,5,Active,Jun,37,High Risk
+3502,Ms. Patel,C,English,59,89,5,Dropped,Feb,59,High Risk
+1520,Ms. Iyer,A,Math,51,79,3,Active,Apr,51,Normal
+3548,Mr. Khan,A,Math,72,81,5,Dropped,Jun,72,High Risk
+2087,Mr. Sharma,C,Computer,36,83,2,Active,Feb,36,High Risk
+2343,Ms. Iyer,A,English,55,77,5,Active,Jan,55,High Risk
+2324,Mr. Khan,C,English,72,91,2,Dropped,Apr,72,Normal
+2415,Mr. Khan,C,Math,67,97,0,Dropped,Jun,67,Normal
+2111,Mr. Khan,C,English,45,81,2,Dropped,Mar,45,High Risk
+3936,Ms. Iyer,C,Science,75,76,3,Dropped,Apr,75,Normal
+2109,Mr. Khan,B,Computer,80,91,5,Active,Jun,80,High Risk
+1935,Mr. Khan,A,Computer,54,92,1,Active,Jan,54,Normal
+3272,Ms. Patel,B,Science,66,92,1,Dropped,Jun,66,Normal
+3636,Mr. Khan,A,Science,67,72,5,Active,Jan,67,High Risk
+4237,Ms. Patel,B,English,60,81,1,Dropped,Apr,60,Normal
+1105,Mr. Khan,C,Math,80,74,1,Dropped,Jan,80,Normal
+1316,Ms. Iyer,A,Computer,78,99,2,Active,Jun,78,Normal
+4144,Ms. Patel,C,Computer,40,68,5,Dropped,May,40,High Risk
+2883,Ms. Iyer,B,Math,66,71,1,Dropped,Jan,66,Normal
+1110,Ms. Patel,C,Computer,96,79,5,Active,Jan,96,High Risk
+1207,Mr. Khan,B,Science,41,70,3,Active,Mar,41,High Risk
+1021,Mr. Khan,B,Math,38,65,1,Active,Feb,38,High Risk
+4771,Mr. Sharma,A,Science,60,62,0,Active,Apr,60,High Risk
+4061,Mr. Khan,A,Science,48,70,1,Active,Feb,48,High Risk
+3956,Mr. Sharma,A,Math,46,82,3,Active,Apr,46,High Risk
+4427,Mr. Khan,A,Math,59,78,5,Active,Feb,59,High Risk
+4702,Ms. Iyer,C,Science,79,67,4,Dropped,Jan,79,High Risk
+4883,Ms. Patel,A,Computer,87,91,2,Dropped,Mar,87,Normal
+1548,Mr. Khan,A,Math,52,78,5,Active,Mar,52,High Risk
+2737,Ms. Iyer,A,Math,90,62,3,Active,Mar,90,High Risk
+2982,Ms. Iyer,A,Science,69,88,5,Active,Feb,69,High Risk
+3909,Mr. Sharma,A,Science,41,71,0,Dropped,Jan,41,High Risk
+3852,Mr. Khan,C,Science,65,83,3,Dropped,May,65,Normal
+4453,Mr. Khan,C,English,38,87,3,Dropped,Feb,38,High Risk
+2712,Ms. Iyer,C,Math,54,83,1,Dropped,Feb,54,Normal
+3467,Ms. Iyer,B,English,85,91,0,Active,Apr,85,Normal
+1294,Mr. Sharma,C,Math,68,95,5,Dropped,Feb,68,High Risk
+4308,Ms. Patel,C,Math,76,71,2,Active,May,76,Normal
+3958,Mr. Khan,A,Computer,52,99,4,Active,May,52,High Risk
+3799,Mr. Khan,B,Science,60,67,3,Active,May,60,High Risk
+1001,Mr. Sharma,A,English,76,73,5,Dropped,Jun,76,High Risk
+4052,Ms. Patel,A,Math,71,64,5,Dropped,Apr,71,High Risk
+4155,Ms. Iyer,C,Computer,75,73,0,Dropped,Mar,75,Normal
+4216,Mr. Sharma,B,Math,36,98,5,Dropped,Apr,36,High Risk
+2252,Mr. Khan,C,Science,62,61,2,Active,Jan,62,High Risk
+4747,Ms. Iyer,C,Computer,39,60,3,Dropped,Feb,39,High Risk
+4081,Ms. Patel,B,English,79,82,2,Dropped,Feb,79,Normal
+2628,Ms. Patel,A,Science,48,75,1,Active,Jun,48,High Risk
+4432,Mr. Khan,B,Computer,44,71,5,Active,Feb,44,High Risk
+2799,Mr. Khan,A,English,35,64,3,Active,Jan,35,High Risk
+3360,Ms. Patel,C,Science,77,71,0,Dropped,Jun,77,Normal
+4192,Ms. Patel,B,Computer,98,79,3,Dropped,May,98,Normal
+3212,Ms. Patel,A,Math,71,96,3,Active,Apr,71,Normal
+1619,Mr. Khan,B,Math,83,87,5,Dropped,Mar,83,High Risk
+3381,Mr. Sharma,A,Math,95,79,1,Active,Mar,95,Normal
+2043,Mr. Sharma,A,Science,36,68,4,Dropped,May,36,High Risk
+3166,Mr. Sharma,C,Computer,60,88,0,Active,Jan,60,Normal
+4828,Ms. Patel,C,English,69,65,4,Active,Feb,69,High Risk
+2008,Ms. Patel,C,English,93,64,0,Dropped,Feb,93,High Risk
+1489,Mr. Khan,A,Science,85,73,3,Dropped,Jan,85,Normal
+4882,Ms. Iyer,C,Science,54,83,2,Dropped,May,54,Normal
+4110,Ms. Patel,C,Computer,84,88,0,Active,Feb,84,Normal
+2317,Mr. Sharma,A,Computer,90,82,3,Dropped,Jan,90,Normal
+3793,Mr. Sharma,B,Math,57,75,1,Active,Jan,57,Normal
+2014,Mr. Sharma,A,Science,42,80,0,Active,Jan,42,High Risk
+1516,Mr. Sharma,B,Computer,42,88,5,Dropped,Mar,42,High Risk
+3358,Mr. Khan,C,Math,81,93,0,Dropped,Feb,81,Normal
+3161,Mr. Sharma,C,Computer,77,69,5,Dropped,Mar,77,High Risk
+1587,Mr. Khan,A,Computer,51,85,0,Dropped,Feb,51,Normal
+4072,Mr. Sharma,B,Science,80,63,0,Dropped,Jun,80,High Risk
+4124,Mr. Sharma,A,English,53,90,5,Active,Apr,53,High Risk
+4673,Ms. Iyer,A,Computer,82,64,0,Dropped,Feb,82,High Risk
+2009,Mr. Khan,C,Computer,96,87,1,Dropped,Apr,96,Normal
+4232,Mr. Sharma,A,Computer,98,65,0,Active,Jun,98,High Risk
+3632,Mr. Khan,C,Computer,75,84,4,Active,Apr,75,High Risk
+4681,Ms. Iyer,B,Computer,65,70,3,Active,Apr,65,Normal
+4525,Ms. Iyer,B,Science,38,97,2,Dropped,Mar,38,High Risk
+2388,Ms. Patel,A,English,47,82,2,Active,Mar,47,High Risk
+1821,Mr. Khan,C,Math,35,83,5,Active,May,35,High Risk
+1710,Ms. Patel,C,English,49,60,3,Dropped,Apr,49,High Risk
+3875,Ms. Iyer,B,English,49,80,2,Dropped,Feb,49,High Risk
+3338,Ms. Patel,B,Science,67,91,0,Active,Mar,67,Normal
+4338,Ms. Patel,A,English,78,97,1,Dropped,Jun,78,Normal
+3132,Mr. Sharma,A,Science,80,68,2,Active,Feb,80,High Risk
+3501,Ms. Iyer,A,Science,60,67,1,Active,Jan,60,High Risk
+1664,Ms. Iyer,B,Computer,62,88,1,Active,Jun,62,Normal
+1303,Ms. Iyer,C,Math,46,64,1,Dropped,Mar,46,High Risk
+2763,Ms. Iyer,C,Math,71,74,3,Dropped,Apr,71,Normal
+4885,Ms. Iyer,C,English,49,82,5,Active,Feb,49,High Risk
+2014,Mr. Khan,C,Math,77,80,2,Dropped,Feb,77,Normal
+2827,Mr. Khan,A,Computer,81,74,0,Dropped,Jan,81,Normal
+1788,Mr. Sharma,C,Computer,85,74,3,Active,Apr,85,Normal
+2825,Mr. Sharma,B,Math,47,81,2,Dropped,Jan,47,High Risk
+3798,Ms. Iyer,C,Computer,86,86,4,Active,Apr,86,High Risk
+2443,Mr. Khan,C,Math,62,94,1,Active,Feb,62,Normal
+3636,Ms. Iyer,B,English,64,77,1,Active,Mar,64,Normal
+1349,Ms. Patel,B,English,38,85,0,Dropped,Mar,38,High Risk
+4657,Ms. Iyer,B,English,41,90,3,Dropped,Jun,41,High Risk
+1444,Ms. Patel,B,English,73,72,0,Dropped,Jun,73,Normal
+2475,Ms. Patel,B,Science,76,95,3,Dropped,Feb,76,Normal
+2399,Mr. Sharma,A,Math,41,60,3,Active,Apr,41,High Risk
+4189,Mr. Sharma,C,English,79,72,5,Dropped,Mar,79,High Risk
+4976,Mr. Sharma,A,Computer,55,81,3,Dropped,Mar,55,Normal
+1983,Mr. Khan,A,Math,60,68,1,Dropped,Mar,60,High Risk
+4225,Mr. Sharma,A,English,76,67,0,Active,Apr,76,High Risk
+3711,Mr. Sharma,B,Science,71,63,1,Dropped,Mar,71,High Risk
+4238,Ms. Iyer,B,Science,53,95,3,Active,Feb,53,Normal
+4040,Mr. Khan,C,Math,52,78,3,Active,Jan,52,Normal
+1482,Mr. Khan,B,Science,89,64,0,Active,May,89,High Risk
+1661,Mr. Khan,C,Science,67,80,0,Dropped,Mar,67,Normal
+1987,Ms. Patel,A,Math,82,96,2,Dropped,Jun,82,Normal
+1968,Mr. Khan,B,Science,66,70,1,Dropped,Jan,66,Normal
+2343,Mr. Sharma,A,Computer,91,84,1,Dropped,Jan,91,Normal
+4729,Ms. Iyer,B,Computer,69,66,4,Dropped,Feb,69,High Risk
+4824,Mr. Sharma,B,English,76,98,0,Dropped,Apr,76,Normal
+2241,Mr. Sharma,C,English,58,78,3,Active,May,58,Normal
+2005,Ms. Patel,B,Math,76,91,4,Active,Mar,76,High Risk
+1352,Ms. Patel,B,Computer,70,99,4,Active,Jun,70,High Risk
+3695,Mr. Sharma,C,Computer,70,62,0,Dropped,Jan,70,High Risk
+2804,Mr. Sharma,B,Computer,75,98,3,Active,Apr,75,Normal
+3564,Ms. Iyer,A,Science,83,61,3,Active,Jun,83,High Risk
+3823,Ms. Patel,A,Math,78,86,4,Active,May,78,High Risk
+4883,Mr. Sharma,B,Computer,84,62,5,Active,Apr,84,High Risk
+4909,Mr. Khan,B,Computer,92,62,5,Dropped,Jan,92,High Risk
+3817,Ms. Iyer,C,Math,36,82,3,Active,Apr,36,High Risk
+1115,Ms. Patel,C,Computer,69,93,5,Dropped,Mar,69,High Risk
+2465,Ms. Patel,B,English,42,81,3,Active,Jan,42,High Risk
+4548,Ms. Iyer,B,English,70,64,4,Active,Jun,70,High Risk
+3493,Mr. Sharma,C,English,65,75,1,Active,Feb,65,Normal
+1656,Mr. Sharma,C,Math,64,75,3,Dropped,Jun,64,Normal
+3562,Ms. Iyer,C,English,50,71,3,Active,Jan,50,Normal
+4350,Ms. Iyer,A,Science,50,89,4,Dropped,Jan,50,High Risk
+3368,Mr. Sharma,A,Math,39,79,3,Active,Jan,39,High Risk
+3453,Ms. Patel,C,Computer,64,80,3,Active,Jan,64,Normal
+3831,Mr. Sharma,A,English,66,92,4,Active,Jan,66,High Risk
+4725,Mr. Khan,B,Computer,72,93,4,Dropped,Apr,72,High Risk
+3796,Ms. Patel,C,Math,70,92,1,Active,May,70,Normal
+4016,Ms. Iyer,A,Science,36,86,0,Dropped,Apr,36,High Risk
+2203,Mr. Khan,C,English,99,70,2,Active,May,99,Normal
+4267,Mr. Sharma,C,Science,96,82,1,Active,Jun,96,Normal
+1405,Ms. Iyer,A,Math,89,65,2,Dropped,May,89,High Risk
+2339,Ms. Patel,A,Math,77,74,5,Active,Jun,77,High Risk
+2452,Ms. Patel,A,Math,46,97,1,Dropped,Jun,46,High Risk
+2693,Mr. Khan,A,Computer,69,89,1,Dropped,Apr,69,Normal
+4597,Mr. Khan,A,Computer,40,62,3,Active,Jun,40,High Risk
+3625,Mr. Khan,A,Computer,49,80,2,Active,Jan,49,High Risk
+4277,Ms. Patel,A,Science,36,94,1,Active,Jun,36,High Risk
+2560,Mr. Sharma,A,English,54,77,1,Active,Apr,54,Normal
+1094,Mr. Khan,C,Math,59,92,3,Active,Feb,59,Normal
+3383,Ms. Iyer,A,Math,48,60,5,Dropped,Feb,48,High Risk
+2960,Ms. Patel,A,Math,88,62,2,Active,Mar,88,High Risk
+4188,Mr. Khan,A,Science,40,84,4,Active,Jun,40,High Risk
+1963,Mr. Khan,B,Computer,42,80,1,Dropped,Feb,42,High Risk
+4244,Ms. Patel,B,English,59,74,3,Active,Apr,59,Normal
+4724,Mr. Sharma,C,Science,94,71,3,Active,Jan,94,Normal
+2681,Ms. Patel,A,English,65,73,3,Dropped,May,65,Normal
+1042,Mr. Khan,C,English,94,65,4,Dropped,Apr,94,High Risk
+3334,Ms. Iyer,C,Math,36,82,2,Dropped,Feb,36,High Risk
+3825,Mr. Khan,A,Science,39,78,1,Active,Jun,39,High Risk
+2276,Mr. Sharma,C,Computer,36,70,1,Active,Apr,36,High Risk
+1982,Ms. Iyer,B,Math,65,74,0,Dropped,Jan,65,Normal
+2352,Mr. Khan,C,Science,43,94,4,Dropped,May,43,High Risk
+1608,Ms. Iyer,B,Computer,62,66,3,Active,May,62,High Risk
+3148,Mr. Khan,A,English,38,63,0,Dropped,Feb,38,High Risk
+1419,Mr. Sharma,C,Science,86,88,3,Active,Mar,86,Normal
+4134,Ms. Patel,A,English,72,98,1,Active,Feb,72,Normal
+3139,Ms. Iyer,B,Computer,97,94,2,Dropped,Apr,97,Normal
+3044,Mr. Sharma,C,Science,48,66,4,Active,Jun,48,High Risk
+4802,Ms. Patel,A,English,39,61,5,Active,Jan,39,High Risk
+3697,Mr. Sharma,C,English,55,97,4,Dropped,May,55,High Risk
+3112,Mr. Sharma,A,Computer,92,98,4,Dropped,Mar,92,High Risk
+1241,Mr. Sharma,C,Computer,47,80,1,Dropped,Jan,47,High Risk
+1172,Ms. Iyer,A,Science,87,77,4,Active,Jan,87,High Risk
+4042,Ms. Patel,C,Science,66,95,0,Dropped,Apr,66,Normal
+3355,Mr. Khan,B,Science,94,70,4,Dropped,Mar,94,High Risk
+2731,Ms. Patel,A,Computer,89,85,5,Dropped,Jun,89,High Risk
+2768,Mr. Khan,A,English,68,77,2,Dropped,Mar,68,Normal
+3601,Mr. Sharma,C,English,86,88,5,Dropped,Apr,86,High Risk
+1104,Ms. Patel,C,Computer,55,72,0,Active,Apr,55,Normal
+1424,Mr. Khan,C,Math,98,76,0,Active,Apr,98,Normal
+4631,Ms. Patel,B,Science,35,61,3,Active,Jun,35,High Risk
+1241,Ms. Iyer,A,Math,63,92,1,Dropped,Feb,63,Normal
+4355,Ms. Patel,B,Math,92,99,4,Dropped,Mar,92,High Risk
+3773,Ms. Iyer,C,Science,68,67,2,Dropped,Feb,68,High Risk
+4003,Mr. Sharma,C,Science,83,74,0,Active,Jun,83,Normal
+2439,Ms. Iyer,C,English,79,78,4,Active,May,79,High Risk
+2031,Ms. Patel,A,English,78,60,4,Dropped,Mar,78,High Risk
+4506,Mr. Sharma,A,Math,77,60,4,Active,May,77,High Risk
+2668,Mr. Khan,A,Computer,58,94,0,Active,Feb,58,Normal
+2950,Ms. Patel,C,Math,54,80,1,Active,Jan,54,Normal
+2414,Ms. Patel,B,English,45,74,2,Active,Feb,45,High Risk
+3397,Ms. Patel,B,Computer,62,64,4,Dropped,May,62,High Risk
+4694,Mr. Khan,C,English,42,69,5,Dropped,Jan,42,High Risk
+3376,Ms. Iyer,B,Math,42,99,0,Active,Jun,42,High Risk
+2827,Mr. Sharma,C,Math,84,62,0,Dropped,Jan,84,High Risk
+1118,Ms. Iyer,A,Science,75,84,1,Active,Jun,75,Normal
+4747,Mr. Sharma,C,Science,96,69,4,Active,May,96,High Risk
+3421,Mr. Khan,B,English,46,86,1,Active,May,46,High Risk
+2249,Ms. Iyer,A,Math,47,91,3,Dropped,May,47,High Risk
+1935,Mr. Sharma,A,Math,45,69,0,Dropped,Jun,45,High Risk
+1487,Mr. Khan,B,Math,52,68,0,Dropped,Mar,52,High Risk
+4032,Mr. Sharma,C,Math,93,73,3,Active,May,93,Normal
+2748,Mr. Sharma,B,English,56,89,3,Active,Jan,56,Normal
+1685,Mr. Khan,B,Computer,78,91,2,Active,Jan,78,Normal
+2567,Mr. Khan,A,Science,55,94,1,Active,Jan,55,Normal
+3990,Mr. Khan,C,Math,73,71,0,Active,Jun,73,Normal
+4069,Mr. Khan,C,Math,52,80,4,Dropped,Jun,52,High Risk
+4431,Ms. Iyer,B,Science,55,67,5,Active,Jan,55,High Risk
+2759,Ms. Iyer,C,Computer,41,82,3,Dropped,Jan,41,High Risk
+3907,Ms. Iyer,A,English,56,84,5,Dropped,Jan,56,High Risk
+1769,Ms. Patel,A,Computer,63,72,1,Active,May,63,Normal
+1282,Mr. Khan,C,English,63,80,3,Active,Jun,63,Normal
+2430,Ms. Patel,B,Math,84,90,2,Dropped,Apr,84,Normal
+4754,Ms. Patel,B,Math,78,72,5,Dropped,Jan,78,High Risk
+1702,Mr. Khan,B,Computer,71,92,2,Dropped,May,71,Normal
+2053,Mr. Sharma,A,English,53,82,4,Dropped,Apr,53,High Risk
+2134,Ms. Patel,B,Math,73,84,4,Active,Jun,73,High Risk
+2899,Mr. Sharma,B,Math,42,75,0,Dropped,Mar,42,High Risk
+2923,Ms. Iyer,C,English,39,62,0,Active,Jan,39,High Risk
+3520,Ms. Patel,C,Computer,98,93,2,Active,Feb,98,Normal
+3278,Mr. Khan,A,Science,44,80,5,Active,Apr,44,High Risk
+3159,Mr. Sharma,A,Math,61,61,0,Dropped,Jan,61,High Risk
+3979,Mr. Sharma,C,Math,47,68,3,Dropped,May,47,High Risk
+2997,Ms. Iyer,A,Computer,92,71,0,Dropped,Jan,92,Normal
+4448,Ms. Patel,C,Science,48,93,4,Active,May,48,High Risk
+4806,Ms. Patel,C,English,54,70,2,Dropped,Feb,54,Normal
+1697,Mr. Sharma,C,Computer,90,78,4,Dropped,Mar,90,High Risk
+2929,Ms. Iyer,B,Computer,38,63,3,Active,Jan,38,High Risk
+2828,Ms. Patel,A,Computer,58,94,1,Active,Jan,58,Normal
+3249,Mr. Sharma,C,English,88,99,4,Dropped,Jun,88,High Risk
+2080,Ms. Iyer,B,Computer,72,63,3,Active,Jun,72,High Risk
+4190,Ms. Iyer,C,Computer,79,79,0,Dropped,Jan,79,Normal
+4586,Ms. Patel,B,Computer,38,88,5,Active,Feb,38,High Risk
+3583,Mr. Sharma,C,Computer,92,63,5,Active,Jun,92,High Risk
+2938,Ms. Iyer,B,Computer,68,89,1,Active,Apr,68,Normal
+4390,Mr. Khan,B,English,65,78,0,Active,Jan,65,Normal
+2099,Ms. Patel,B,Computer,56,83,4,Active,Mar,56,High Risk
+3974,Mr. Khan,A,English,64,97,4,Dropped,Jun,64,High Risk
+1739,Mr. Sharma,A,English,98,78,4,Dropped,Jan,98,High Risk
+1830,Mr. Sharma,B,Math,89,92,1,Dropped,Feb,89,Normal
+2019,Ms. Patel,A,English,81,70,0,Active,Jan,81,Normal
+1197,Ms. Iyer,C,Science,79,92,0,Active,Apr,79,Normal
+1398,Mr. Sharma,B,Computer,38,79,2,Active,Feb,38,High Risk
+1074,Ms. Patel,B,Computer,81,73,3,Active,Jun,81,Normal
+2528,Ms. Iyer,A,Computer,43,85,4,Dropped,Apr,43,High Risk
+2794,Ms. Iyer,C,Science,95,69,1,Active,Apr,95,High Risk
+1546,Mr. Sharma,A,Computer,85,78,1,Dropped,Jun,85,Normal
+1580,Ms. Iyer,A,English,80,85,2,Dropped,Apr,80,Normal
+3096,Ms. Patel,B,Math,98,96,3,Active,May,98,Normal
+3403,Ms. Iyer,A,Science,55,69,4,Dropped,Jan,55,High Risk
+3978,Mr. Sharma,B,Computer,38,98,1,Active,Apr,38,High Risk
+3659,Mr. Khan,C,English,35,83,0,Dropped,Jan,35,High Risk
+2687,Ms. Iyer,B,Math,75,90,3,Active,Mar,75,Normal
+2431,Ms. Iyer,B,Science,70,80,5,Active,Feb,70,High Risk
+1902,Mr. Sharma,A,Computer,64,81,3,Active,Jun,64,Normal
+1631,Mr. Khan,C,English,69,87,5,Active,Apr,69,High Risk
+3014,Mr. Khan,C,Computer,44,75,5,Active,Jun,44,High Risk
+2251,Mr. Khan,C,English,78,68,4,Dropped,May,78,High Risk
+3297,Ms. Iyer,A,English,90,79,1,Dropped,Feb,90,Normal
+1689,Mr. Khan,B,Math,91,80,3,Dropped,Feb,91,Normal
+3686,Mr. Khan,C,English,67,86,5,Active,Apr,67,High Risk
+2171,Ms. Iyer,A,Computer,49,77,2,Dropped,Jan,49,High Risk
+2449,Ms. Patel,A,Computer,49,66,4,Active,Mar,49,High Risk
+1164,Mr. Sharma,C,English,60,73,0,Dropped,May,60,Normal
+4652,Ms. Patel,A,Computer,92,80,1,Active,Apr,92,Normal
+4031,Ms. Iyer,A,Science,37,82,1,Active,May,37,High Risk
+2880,Mr. Khan,B,Computer,83,78,2,Dropped,Jun,83,Normal
+1628,Ms. Patel,B,English,46,92,1,Dropped,May,46,High Risk
+1572,Ms. Iyer,A,Science,67,76,4,Active,Apr,67,High Risk
+1176,Ms. Iyer,B,Computer,62,98,5,Active,Jun,62,High Risk
+2517,Mr. Khan,C,Math,51,93,5,Active,May,51,High Risk
+4588,Ms. Patel,A,Math,99,69,4,Active,Mar,99,High Risk
+4137,Ms. Iyer,B,English,36,81,0,Dropped,Jan,36,High Risk
+1587,Ms. Iyer,A,English,50,98,5,Active,Apr,50,High Risk
+1570,Ms. Iyer,B,Math,74,97,3,Active,Mar,74,Normal
+2854,Mr. Khan,C,Computer,44,94,2,Active,Apr,44,High Risk
+1531,Ms. Patel,C,Math,83,91,4,Dropped,May,83,High Risk
+1883,Mr. Sharma,C,Science,60,63,5,Active,Feb,60,High Risk
+3126,Mr. Khan,A,English,49,99,4,Dropped,May,49,High Risk
+4048,Ms. Patel,B,Computer,48,86,4,Active,Mar,48,High Risk
+1880,Mr. Khan,C,Science,74,87,1,Active,Feb,74,Normal
+2783,Mr. Sharma,A,Math,97,61,0,Active,Jun,97,High Risk
+4168,Mr. Sharma,B,Computer,37,67,3,Active,Mar,37,High Risk
+3726,Ms. Patel,B,Math,76,94,5,Dropped,Feb,76,High Risk
+3426,Ms. Iyer,B,Computer,86,82,0,Dropped,Feb,86,Normal
+1306,Ms. Patel,C,Math,84,78,4,Dropped,Jan,84,High Risk
+1007,Mr. Khan,A,Science,45,71,1,Dropped,May,45,High Risk
+3211,Ms. Iyer,C,Math,58,87,0,Active,May,58,Normal
+2127,Mr. Sharma,C,Science,89,68,5,Dropped,Mar,89,High Risk
+4339,Ms. Iyer,A,Computer,76,79,5,Active,May,76,High Risk
+3924,Ms. Iyer,A,Computer,36,66,2,Dropped,Apr,36,High Risk
+2898,Ms. Patel,B,English,37,86,1,Dropped,May,37,High Risk
+3267,Mr. Khan,B,English,74,97,0,Active,Jan,74,Normal
+3975,Ms. Iyer,C,Science,35,67,4,Active,Mar,35,High Risk
+4037,Ms. Patel,A,English,82,96,3,Dropped,Feb,82,Normal
+2547,Mr. Khan,B,English,53,91,0,Dropped,Feb,53,Normal
+1574,Mr. Sharma,A,English,45,75,0,Dropped,Mar,45,High Risk
+4233,Ms. Iyer,B,English,55,89,4,Dropped,Jan,55,High Risk
+2529,Ms. Patel,C,Computer,38,87,5,Active,Feb,38,High Risk
+2560,Ms. Iyer,B,Math,93,86,4,Active,May,93,High Risk
+4864,Ms. Iyer,C,Computer,37,92,3,Dropped,Mar,37,High Risk
+4453,Mr. Sharma,B,English,54,93,1,Dropped,Jan,54,Normal
+4547,Mr. Khan,A,Science,39,94,4,Dropped,Feb,39,High Risk
+1645,Mr. Sharma,C,Science,43,97,1,Active,Feb,43,High Risk
+3990,Ms. Patel,B,Computer,94,70,1,Dropped,Jan,94,Normal
+2821,Mr. Khan,C,Computer,37,71,3,Active,Mar,37,High Risk
+1189,Ms. Patel,B,English,55,87,1,Active,May,55,Normal
+2715,Ms. Patel,A,Math,67,80,2,Dropped,Apr,67,Normal
+2098,Ms. Iyer,A,Math,68,77,1,Dropped,Jun,68,Normal
+3320,Mr. Sharma,A,English,91,82,5,Dropped,Apr,91,High Risk
+1930,Ms. Iyer,C,Computer,45,89,2,Dropped,Feb,45,High Risk
+3319,Mr. Sharma,B,Computer,67,79,4,Dropped,Jun,67,High Risk
+1935,Ms. Patel,C,English,68,61,2,Dropped,Mar,68,High Risk
+3248,Mr. Khan,B,Science,62,98,5,Active,May,62,High Risk
+3563,Mr. Sharma,C,English,54,60,2,Dropped,Apr,54,High Risk
+3190,Ms. Iyer,C,English,92,84,5,Active,Apr,92,High Risk
+2336,Mr. Khan,A,Math,97,80,2,Active,May,97,Normal
+1459,Ms. Patel,A,Computer,87,73,3,Active,Jun,87,Normal
+4938,Mr. Khan,C,Science,51,98,0,Active,Apr,51,Normal
+4674,Mr. Sharma,C,Computer,40,86,2,Dropped,Mar,40,High Risk
+3659,Mr. Khan,A,English,80,97,5,Active,Mar,80,High Risk
+2565,Ms. Iyer,C,English,96,94,2,Active,Jun,96,Normal
+1153,Ms. Iyer,C,Science,59,99,5,Dropped,Jun,59,High Risk
+3994,Mr. Khan,B,Science,56,78,5,Active,Jun,56,High Risk
+3331,Ms. Patel,A,Science,37,78,0,Active,Jun,37,High Risk
+4134,Mr. Khan,C,English,79,66,5,Dropped,Jun,79,High Risk
+2460,Mr. Sharma,C,Math,53,73,5,Dropped,Apr,53,High Risk
+1285,Mr. Sharma,B,Science,95,95,0,Active,May,95,Normal
+3136,Mr. Khan,C,Computer,43,92,3,Dropped,Jun,43,High Risk
+2762,Ms. Patel,C,English,48,70,4,Dropped,Mar,48,High Risk
+1040,Mr. Khan,A,English,93,73,5,Dropped,May,93,High Risk
+4708,Mr. Khan,B,English,42,61,0,Active,Jun,42,High Risk
+2085,Mr. Sharma,C,English,75,75,4,Active,Apr,75,High Risk
+2058,Mr. Khan,C,Math,82,89,3,Dropped,Mar,82,Normal
+2348,Ms. Iyer,B,Computer,45,80,4,Active,Feb,45,High Risk
+2986,Mr. Sharma,B,English,82,79,4,Dropped,Jan,82,High Risk
+3044,Ms. Patel,A,Science,78,92,4,Active,May,78,High Risk
+2058,Ms. Patel,B,Science,95,68,3,Dropped,Jan,95,High Risk
+1342,Mr. Sharma,C,English,99,67,4,Active,Feb,99,High Risk
+3485,Ms. Iyer,B,Science,81,99,3,Dropped,May,81,Normal
+1658,Mr. Sharma,C,English,80,74,0,Dropped,Jun,80,Normal
+3279,Mr. Sharma,A,English,60,88,5,Active,Jun,60,High Risk
+1504,Mr. Khan,A,Science,55,97,3,Active,Mar,55,Normal
+3587,Mr. Khan,B,Science,63,63,3,Active,Jan,63,High Risk
+1578,Mr. Sharma,A,Computer,38,81,3,Dropped,Apr,38,High Risk
+2792,Ms. Iyer,B,English,68,86,0,Dropped,Apr,68,Normal
+4736,Ms. Patel,B,English,72,65,5,Dropped,Jun,72,High Risk
+1729,Mr. Sharma,B,Science,51,71,5,Active,May,51,High Risk
+4451,Ms. Iyer,A,Science,61,67,2,Dropped,May,61,High Risk
+3800,Ms. Patel,A,Science,99,88,4,Dropped,Apr,99,High Risk
+2455,Mr. Khan,A,Science,74,73,2,Dropped,Jun,74,Normal
+1997,Mr. Sharma,A,Computer,90,72,4,Dropped,Apr,90,High Risk
+1403,Ms. Patel,A,Science,83,67,2,Active,Mar,83,High Risk
+2968,Ms. Patel,A,Math,73,80,4,Dropped,Mar,73,High Risk
+1816,Mr. Sharma,A,Science,98,68,4,Active,May,98,High Risk
+3866,Ms. Iyer,A,Science,75,76,4,Active,Mar,75,High Risk
+2574,Mr. Khan,A,Math,93,98,0,Active,Mar,93,Normal
+4730,Mr. Sharma,A,Computer,47,70,5,Dropped,Jan,47,High Risk
+4628,Mr. Sharma,C,Computer,45,72,5,Dropped,Jun,45,High Risk
+1018,Mr. Sharma,A,English,35,99,3,Dropped,Jan,35,High Risk
+4311,Ms. Patel,B,Science,95,71,4,Dropped,Mar,95,High Risk
+4321,Ms. Patel,B,English,67,85,3,Active,Apr,67,Normal
+1173,Mr. Khan,B,Science,42,84,2,Active,May,42,High Risk
+2710,Mr. Khan,A,English,64,82,0,Active,Jun,64,Normal
+1989,Ms. Iyer,C,Math,52,61,3,Active,Apr,52,High Risk
+3532,Ms. Iyer,B,English,67,95,1,Dropped,May,67,Normal
+2136,Ms. Iyer,B,Science,53,87,3,Dropped,May,53,Normal
+1958,Ms. Patel,B,Computer,49,98,1,Active,Mar,49,High Risk
+2842,Mr. Sharma,C,Computer,63,69,1,Dropped,Mar,63,High Risk
+1562,Ms. Patel,C,Science,44,73,1,Dropped,Apr,44,High Risk
+4155,Mr. Khan,C,English,73,87,2,Dropped,Jun,73,Normal
+2701,Mr. Sharma,B,English,61,61,4,Active,Feb,61,High Risk
+3343,Ms. Patel,A,Computer,37,75,5,Dropped,Mar,37,High Risk
+1267,Mr. Sharma,B,Math,36,76,0,Active,May,36,High Risk
+2998,Mr. Sharma,C,Math,69,60,4,Dropped,Mar,69,High Risk
+4350,Ms. Iyer,B,Computer,96,90,0,Dropped,Mar,96,Normal
+3324,Ms. Iyer,A,Math,58,97,3,Dropped,Apr,58,Normal
+3658,Mr. Khan,C,Science,88,77,3,Dropped,Apr,88,Normal
+3021,Ms. Patel,B,Science,79,68,4,Active,Mar,79,High Risk
+3242,Mr. Sharma,B,Computer,64,93,2,Dropped,Jan,64,Normal
+4134,Mr. Sharma,C,English,62,74,0,Dropped,Apr,62,Normal
+3607,Mr. Sharma,B,Math,57,99,2,Dropped,Feb,57,Normal
+2943,Ms. Iyer,C,Math,66,95,3,Active,Apr,66,Normal
+3980,Ms. Iyer,A,Science,73,93,3,Dropped,Jan,73,Normal
+2591,Ms. Iyer,A,Math,41,63,4,Dropped,May,41,High Risk
+2810,Ms. Patel,B,Science,99,60,3,Dropped,May,99,High Risk
+1913,Mr. Khan,C,Science,63,69,3,Dropped,Jun,63,High Risk
+1125,Mr. Sharma,B,English,69,90,2,Dropped,May,69,Normal
+2415,Mr. Sharma,B,Science,45,97,4,Active,Mar,45,High Risk
+1832,Mr. Sharma,B,Math,68,71,5,Active,Feb,68,High Risk
+2900,Ms. Patel,C,Computer,65,63,0,Dropped,Feb,65,High Risk
+2399,Mr. Khan,C,Science,84,64,5,Active,Apr,84,High Risk
+1556,Ms. Patel,C,Computer,93,62,2,Active,May,93,High Risk
+4501,Mr. Sharma,C,Science,38,85,2,Dropped,Feb,38,High Risk
+4634,Ms. Patel,B,Computer,98,86,1,Active,May,98,Normal
+3172,Ms. Patel,B,Math,84,65,2,Active,Jun,84,High Risk
+3532,Ms. Patel,A,Math,49,89,1,Active,May,49,High Risk
+4158,Ms. Patel,C,Computer,71,96,2,Dropped,Feb,71,Normal
+3043,Mr. Khan,A,Math,40,63,1,Dropped,Apr,40,High Risk
+3478,Ms. Patel,C,English,63,72,2,Active,Apr,63,Normal
+1067,Ms. Iyer,A,Computer,51,91,5,Active,May,51,High Risk
+1364,Mr. Sharma,B,Computer,71,72,1,Dropped,Apr,71,Normal
+3946,Ms. Iyer,B,Science,87,82,2,Active,Mar,87,Normal
+4634,Ms. Iyer,A,Science,76,93,4,Dropped,Apr,76,High Risk
+1138,Mr. Khan,C,Math,80,80,3,Dropped,Mar,80,Normal
+3530,Mr. Sharma,B,English,35,87,4,Dropped,Jun,35,High Risk
+1995,Ms. Patel,A,Math,47,93,2,Dropped,May,47,High Risk
+4835,Ms. Patel,C,English,85,76,2,Active,Jan,85,Normal
+1998,Mr. Khan,A,Math,58,78,4,Dropped,Apr,58,High Risk
+1656,Mr. Khan,A,English,42,87,4,Active,Jan,42,High Risk
+2140,Ms. Patel,A,Math,70,78,2,Active,Feb,70,Normal
+4732,Ms. Iyer,C,Science,45,71,5,Dropped,Mar,45,High Risk
+4588,Mr. Khan,A,Math,45,98,3,Active,Mar,45,High Risk
+1557,Mr. Khan,C,Computer,90,79,0,Dropped,Jan,90,Normal
+1882,Ms. Iyer,A,Science,46,65,0,Active,Apr,46,High Risk
+2771,Ms. Iyer,A,Math,53,85,3,Active,Apr,53,Normal
+4070,Ms. Patel,C,Computer,86,91,5,Dropped,Apr,86,High Risk
+2610,Mr. Khan,A,Computer,89,95,5,Active,Feb,89,High Risk
+1714,Ms. Patel,A,English,67,83,2,Dropped,Jun,67,Normal
+2972,Mr. Khan,A,Computer,98,76,2,Active,Feb,98,Normal
+1162,Mr. Khan,A,Science,85,63,4,Active,Feb,85,High Risk
+3988,Mr. Khan,C,English,82,68,3,Dropped,Jan,82,High Risk
+3490,Mr. Khan,C,English,53,97,2,Active,May,53,Normal
+3527,Ms. Iyer,C,English,47,90,1,Dropped,May,47,High Risk
+1682,Mr. Sharma,C,Science,56,88,5,Active,May,56,High Risk
+3367,Mr. Khan,A,Science,88,69,1,Dropped,Apr,88,High Risk
+3241,Ms. Patel,A,Science,55,75,3,Dropped,Mar,55,Normal
+1695,Ms. Iyer,A,Math,75,83,2,Dropped,Feb,75,Normal
+1018,Ms. Patel,A,Science,64,89,2,Dropped,Jun,64,Normal
+4559,Ms. Patel,A,Science,42,85,0,Dropped,Jan,42,High Risk
+2088,Mr. Sharma,A,Computer,64,66,2,Dropped,Mar,64,High Risk
+3048,Mr. Khan,C,Math,70,84,4,Dropped,Feb,70,High Risk
+2767,Mr. Khan,C,Math,49,96,4,Dropped,Feb,49,High Risk
+4199,Ms. Iyer,C,Computer,42,64,3,Active,Jun,42,High Risk
+3241,Mr. Khan,B,Math,35,95,2,Active,Jan,35,High Risk
+1801,Mr. Khan,C,Computer,97,99,0,Dropped,May,97,Normal
+1413,Ms. Iyer,C,Math,80,73,3,Dropped,May,80,Normal
+4756,Mr. Khan,A,English,37,73,3,Active,Feb,37,High Risk
+1357,Ms. Iyer,C,Math,68,78,2,Active,Jan,68,Normal
+3422,Mr. Khan,C,Science,50,61,0,Dropped,May,50,High Risk
+4259,Ms. Iyer,B,English,68,75,5,Dropped,Jun,68,High Risk
+2313,Ms. Iyer,B,Science,47,90,3,Dropped,Jan,47,High Risk
+1631,Ms. Iyer,C,English,73,62,5,Dropped,Jun,73,High Risk
+3780,Mr. Khan,A,Math,89,86,5,Dropped,Apr,89,High Risk
+3960,Mr. Sharma,C,Science,87,98,0,Active,Feb,87,Normal
+4474,Ms. Iyer,C,Computer,64,72,4,Active,Mar,64,High Risk
+2304,Ms. Patel,A,Computer,87,78,0,Dropped,Jun,87,Normal
+4145,Mr. Sharma,A,Computer,65,76,5,Dropped,Mar,65,High Risk
+2587,Mr. Sharma,B,English,44,95,5,Dropped,Feb,44,High Risk
+4085,Mr. Khan,A,Computer,54,91,1,Dropped,May,54,Normal
+2011,Ms. Patel,B,Computer,84,87,5,Active,Jun,84,High Risk
+2053,Mr. Khan,C,Computer,87,83,5,Active,Feb,87,High Risk
+4130,Ms. Iyer,A,Math,97,63,4,Active,Feb,97,High Risk
+4702,Mr. Khan,B,Computer,42,77,3,Dropped,May,42,High Risk
+1849,Mr. Khan,A,English,65,73,1,Active,Apr,65,Normal
+1990,Mr. Sharma,B,Science,83,74,0,Dropped,May,83,Normal
+3341,Ms. Patel,A,Computer,60,77,5,Dropped,Apr,60,High Risk
+3437,Ms. Iyer,B,Math,84,67,0,Dropped,May,84,High Risk
+4722,Mr. Khan,C,Math,78,88,3,Active,May,78,Normal
+2946,Mr. Sharma,C,Science,99,78,0,Dropped,Apr,99,Normal
+4921,Ms. Iyer,C,Math,68,63,3,Dropped,Mar,68,High Risk
+3224,Mr. Sharma,A,Math,49,72,2,Active,May,49,High Risk
+4492,Ms. Iyer,A,Science,90,71,2,Active,Jan,90,Normal
+2948,Ms. Iyer,A,Science,51,82,1,Dropped,Mar,51,Normal
+3679,Mr. Sharma,A,Math,67,86,0,Active,Jan,67,Normal
+4988,Ms. Patel,C,Math,89,69,4,Active,Apr,89,High Risk
+4607,Ms. Patel,B,English,47,96,0,Active,Apr,47,High Risk
+1430,Ms. Iyer,B,Math,45,76,3,Dropped,Mar,45,High Risk
+1532,Mr. Khan,C,Math,59,89,0,Dropped,Apr,59,Normal
+1912,Mr. Khan,B,English,46,96,1,Active,May,46,High Risk
+2023,Mr. Khan,A,Math,82,98,3,Dropped,Jun,82,Normal
+4839,Mr. Khan,C,English,75,94,1,Active,Feb,75,Normal
+1396,Mr. Khan,A,English,47,77,4,Active,May,47,High Risk
+1328,Mr. Sharma,B,Computer,65,61,0,Active,May,65,High Risk
+1951,Ms. Iyer,B,Computer,72,70,5,Dropped,Mar,72,High Risk
+2751,Ms. Iyer,A,Science,79,93,0,Dropped,May,79,Normal
+3321,Ms. Patel,C,Science,42,66,3,Dropped,Jan,42,High Risk
+1939,Ms. Iyer,B,Science,37,87,5,Active,Feb,37,High Risk
+2461,Ms. Iyer,A,Science,55,87,5,Active,May,55,High Risk
+4323,Ms. Patel,C,English,99,95,4,Active,Mar,99,High Risk
+2067,Ms. Iyer,C,Computer,47,69,4,Active,Jan,47,High Risk
+4596,Mr. Sharma,C,Science,81,69,5,Dropped,Jun,81,High Risk
+3005,Mr. Sharma,A,English,71,97,1,Dropped,Mar,71,Normal
+4992,Mr. Sharma,B,English,48,69,2,Dropped,Mar,48,High Risk
+4851,Ms. Patel,B,Science,37,97,0,Dropped,Jan,37,High Risk
+1170,Ms. Iyer,A,English,88,83,4,Active,Feb,88,High Risk
+4259,Mr. Sharma,C,Computer,59,95,1,Active,Apr,59,Normal
+3831,Ms. Iyer,A,English,99,79,3,Active,Apr,99,Normal
+3745,Mr. Khan,A,Computer,81,76,3,Active,Apr,81,Normal
+2697,Mr. Sharma,B,Science,61,89,0,Dropped,Apr,61,Normal
+1664,Mr. Khan,C,English,71,65,4,Active,Feb,71,High Risk
+4896,Mr. Khan,A,Math,67,66,3,Dropped,Mar,67,High Risk
+3420,Ms. Patel,C,Science,46,75,2,Dropped,Apr,46,High Risk
+1456,Ms. Iyer,C,Math,41,95,2,Dropped,Apr,41,High Risk
+4030,Mr. Sharma,B,Science,66,70,0,Dropped,Apr,66,Normal
+1643,Mr. Khan,A,Science,79,81,2,Active,May,79,Normal
+2249,Mr. Sharma,B,Math,63,88,1,Active,Jun,63,Normal
+3518,Mr. Khan,A,Math,62,72,3,Active,May,62,Normal
+2625,Mr. Sharma,C,Science,78,85,3,Dropped,Jan,78,Normal
+1433,Mr. Sharma,C,English,43,64,3,Active,Jun,43,High Risk
+1277,Mr. Sharma,A,Math,49,91,3,Active,May,49,High Risk
+4270,Mr. Sharma,A,Science,51,85,3,Dropped,Jan,51,Normal
+2417,Ms. Patel,B,Math,91,85,0,Dropped,May,91,Normal
+1460,Ms. Iyer,C,Math,79,78,2,Dropped,Apr,79,Normal
+2006,Ms. Iyer,B,English,87,67,3,Dropped,Jun,87,High Risk
+4904,Ms. Patel,B,Math,62,70,2,Active,May,62,Normal
+2723,Mr. Sharma,B,English,83,97,5,Active,Jan,83,High Risk
+1685,Ms. Patel,B,Science,91,90,0,Active,Jun,91,Normal
+2843,Mr. Khan,A,English,60,64,3,Dropped,Mar,60,High Risk
+3469,Ms. Iyer,C,Science,88,92,1,Dropped,Apr,88,Normal
+2145,Ms. Iyer,C,Math,61,93,4,Dropped,Feb,61,High Risk
+4365,Mr. Sharma,B,English,55,64,5,Active,Feb,55,High Risk
+3257,Ms. Iyer,B,Math,96,81,5,Dropped,Jan,96,High Risk
+3050,Ms. Iyer,B,Math,80,72,5,Dropped,Apr,80,High Risk
+1492,Mr. Sharma,A,Science,40,88,3,Active,Jun,40,High Risk
+3380,Ms. Patel,A,English,67,76,2,Dropped,May,67,Normal
+4563,Ms. Iyer,B,Computer,84,70,3,Active,Apr,84,Normal
+2890,Ms. Patel,A,Computer,75,75,3,Active,Jan,75,Normal
+4064,Mr. Sharma,A,Science,82,85,5,Dropped,Mar,82,High Risk
+3321,Ms. Iyer,A,Computer,45,96,0,Dropped,May,45,High Risk
+1885,Ms. Patel,C,Science,53,82,5,Dropped,May,53,High Risk
+1619,Ms. Iyer,A,English,60,65,3,Dropped,Apr,60,High Risk
+1618,Ms. Iyer,B,Math,63,93,0,Dropped,Feb,63,Normal
+1929,Ms. Iyer,A,Science,77,75,1,Active,Jun,77,Normal
+1007,Mr. Sharma,C,Science,42,72,1,Active,Mar,42,High Risk
+1186,Mr. Sharma,A,Math,99,98,0,Active,Jun,99,Normal
+3121,Mr. Sharma,C,Computer,78,68,4,Dropped,Feb,78,High Risk
+4583,Ms. Patel,B,Science,70,96,3,Active,May,70,Normal
+2787,Ms. Iyer,B,English,62,80,1,Dropped,Jan,62,Normal
+3837,Ms. Patel,C,English,89,67,2,Dropped,Feb,89,High Risk
+4947,Mr. Khan,C,Math,61,88,2,Dropped,Apr,61,Normal
+4336,Ms. Patel,B,Math,47,69,3,Active,Mar,47,High Risk
+2522,Mr. Sharma,B,English,88,86,1,Active,Jan,88,Normal
+3652,Ms. Patel,B,Computer,35,91,0,Dropped,Jan,35,High Risk
+4682,Mr. Sharma,B,English,54,89,2,Active,Jan,54,Normal
+1115,Mr. Sharma,C,Math,51,77,4,Active,Feb,51,High Risk
+3371,Ms. Iyer,C,Science,87,86,1,Active,Feb,87,Normal
+1153,Mr. Khan,C,Computer,99,60,1,Dropped,May,99,High Risk
+1314,Ms. Iyer,A,Computer,54,82,1,Dropped,Mar,54,Normal
+2216,Mr. Sharma,C,Math,75,64,1,Dropped,Feb,75,High Risk
+4063,Mr. Sharma,B,English,51,81,1,Dropped,Apr,51,Normal
+1708,Mr. Sharma,A,Science,75,88,3,Active,Apr,75,Normal
+3635,Ms. Patel,B,Science,45,80,2,Dropped,Mar,45,High Risk
+1699,Ms. Patel,A,English,60,78,4,Active,Jan,60,High Risk
+1551,Ms. Iyer,B,Science,81,66,1,Active,Feb,81,High Risk
+3179,Ms. Patel,A,Science,39,80,5,Dropped,May,39,High Risk
+3675,Mr. Khan,A,Math,57,79,1,Dropped,Mar,57,Normal
+3971,Ms. Iyer,B,Computer,42,78,5,Active,Feb,42,High Risk
+2920,Mr. Sharma,A,Computer,49,94,4,Dropped,Mar,49,High Risk
+4235,Ms. Patel,C,Computer,58,86,4,Active,Jan,58,High Risk
+4075,Mr. Khan,B,Science,58,83,1,Active,Mar,58,Normal
+4319,Ms. Iyer,B,English,68,82,4,Dropped,Feb,68,High Risk
+1180,Ms. Iyer,A,Science,57,64,5,Dropped,Feb,57,High Risk
+4896,Mr. Khan,A,English,96,65,4,Active,Mar,96,High Risk
+4156,Mr. Sharma,A,English,44,99,5,Active,May,44,High Risk
+1383,Mr. Sharma,B,English,95,79,2,Active,Feb,95,Normal
+1843,Mr. Khan,A,Science,85,81,3,Dropped,Jun,85,Normal
+2988,Mr. Khan,C,English,72,95,0,Dropped,Feb,72,Normal
+1305,Ms. Iyer,A,Computer,47,82,1,Dropped,Apr,47,High Risk
+2135,Mr. Sharma,A,English,64,96,0,Active,Apr,64,Normal
+4453,Mr. Khan,A,Computer,61,73,0,Active,Feb,61,Normal
+1212,Mr. Khan,B,Math,81,95,5,Active,Apr,81,High Risk
+1271,Mr. Sharma,A,English,88,80,0,Active,Feb,88,Normal
+4273,Ms. Iyer,C,English,93,90,1,Dropped,Mar,93,Normal
+1520,Mr. Khan,C,Computer,66,93,5,Dropped,Jun,66,High Risk
+3773,Ms. Patel,C,Science,45,91,1,Dropped,Apr,45,High Risk
+2134,Mr. Sharma,B,Computer,51,63,3,Active,Jun,51,High Risk
+4173,Mr. Khan,A,Math,59,80,4,Active,Mar,59,High Risk
+4875,Ms. Iyer,C,Science,99,84,2,Active,Apr,99,Normal
+4269,Mr. Sharma,B,Science,49,91,2,Active,Jan,49,High Risk
